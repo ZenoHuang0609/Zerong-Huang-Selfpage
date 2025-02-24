@@ -1,7 +1,3 @@
-MIME-Version: 1.0
-Content-ID: <.htm@01DB871E.15FE0820>
-Content-Transfer-Encoding: quoted-printable
-Content-Type: text/html; charset="utf-8"
 
 <html>
 
